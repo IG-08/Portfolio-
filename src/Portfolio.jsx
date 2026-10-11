@@ -1,19 +1,5 @@
 import { useState, useEffect } from "react";
 
-/*
-Ishwarya Gandamsetty — Data Analyst Portfolio
-Single-file React component, inline styles only (no Tailwind / CSS modules).
-Fonts: Poppins (headings / display), Nunito (body).
-Add these to your index.html <head>:
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="true">
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
-
-Photo: drop ishwarya-portrait.jpg into your project's /public/images/ folder
-so it resolves at /images/ishwarya-portrait.jpg.
-*/
-
 const COLORS = {
 bg: "#0a0e2b",
 surface: "#11163f",
